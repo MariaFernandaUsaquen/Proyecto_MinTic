@@ -31,7 +31,7 @@ Nota:"Informacion tomada de <https://lms.misiontic2022udea.com/mod/page/view.php
 
 
 * Carlos Reinel Arias Ramirez
-Soy tecnologo de telecomunicaciones
+Soy tecnologo de telecomunicaciones, tengo 46 años
 Vivo en Envigado
 Espero aprender mucho con esta nueva metodologia
 Terminar con exito este ciclo.
