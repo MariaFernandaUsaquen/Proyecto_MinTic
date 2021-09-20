@@ -47,3 +47,7 @@ Actualmente solo estoy estudiando la formación de Misión Tic, pero luego de te
 
 * Rosa Elvira Garavito Angarita:
 Soy Ingeniera Electrónica, vivo en la ciudad de Bogotá, actualmente estoy trabajando como profesora en una Universidad y soy estudiante aciva del programa MisionTIC 2022 con la Universidad de Antioquia. Mi motor es mi familia y mi precioso hijo, me encanta la música electrónica, salsa, merengue, romántica y pop. Quiero aprender a programar para crear un emprendimiento y aportarle a mi país.
+
+* Danna Katerim Pizarro:
+tengo 15 años , soy estudiante y me apasiona la ciencia , en especial la astrofisica . Me gusta aprender cosas nuevas todos los dias y espero poder ser una buena programadora en el futuro .
+soy de Medelllin pero vivo en chia cundinamarca , me gusta leer , me apasiona investigar sobre la exploracion espacial y espero mejorar mis habilidades en este ciclo 3 .
