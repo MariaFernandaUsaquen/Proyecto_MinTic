@@ -1,0 +1,19 @@
+#div1{
+    border: 2px solid red
+}
+#div1{
+    border: 8px dotted black
+}
+#div1{
+    border: 4px dashed green
+}
+/* Selccion de elementos por tipo */
+div{
+    font-size: 20px;
+    text-align: center;
+
+}
+/* Selccion de elementos por clase */
+.azul{
+
+}
