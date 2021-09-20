@@ -44,3 +44,6 @@ Tengo 17 años, vivo en Popayán-Cauca
 Me gusta mucho los videojuegos,ver series y peliculas, me gusta mas el tipo de musica que este mas inclinada al genero de rock
 Soy técnico en nomina y prestaciones sociales
 Actualmente solo estoy estudiando la formación de Misión Tic, pero luego de terminar la formación quiero estudiar arquitectura 
+
+•	Rosa Elvira Garavito Angarita
+Soy Ingeniera Electrónica, vivo en la ciudad de Bogotá, actualmente estoy trabajando como profesora en una Universidad, mi motor es mi familia y mi precioso hijo, me encanta la música electrónica, salsa, merengue, romántica y pop. Quiero aprender a programar para crear un emprendimiento y aportar aún más a mi país.
