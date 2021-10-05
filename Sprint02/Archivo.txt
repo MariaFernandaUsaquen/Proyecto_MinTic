@@ -1,0 +1,4 @@
+Este es un archivo de texto 
+
+En esta carpeta se encuentran desarrolladas las historias de usuario HU_08, HU_09, HU_10
+pertenecientes al Sprint-2 (estas historias se implementan en una sola interfaz)
