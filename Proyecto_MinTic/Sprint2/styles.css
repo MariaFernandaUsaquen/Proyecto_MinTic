@@ -1,0 +1,88 @@
+*{
+
+    padding:100%;
+    box-sizing:content-box;
+    width: 500px;
+    padding: 30px;
+    box-align: center;
+    margin:auto;
+    align-items: center;
+    margin-left: center ;
+    margin-top: center ;
+    background-color: #2E4053;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px;
+    font-family: 'calibri';
+    font-size: 20px;
+    color: white;
+    
+}
+body{
+    background-color: #2E4053;
+
+    
+}
+.form-register {
+    width: 500 px;
+    background-image: url('https://p4.wallpaperbetter.com/wallpaper/632/40/2/nebula-orion-nebula-universe-astronomical-object-wallpaper-preview.jpg');
+    margin:auto;
+    padding: 40%;
+    margin-left: center;
+    margin-top: center;
+    margin-right: center ;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: white;
+    box-shadow: 7px 13px 37px rgb(17, 11, 46);
+    box-sizing: content-box;
+    box-sizing:content-box;
+
+  
+
+}
+
+
+.form-register h4,h5{
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+    margin-left: center;
+    margin-top: center;
+    background-color:#2E4053;
+    font-size: 22px;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color:#2E4053;
+}
+.controls{
+    
+    background: white ;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    border: 1px;
+    font-family: 'calibri';
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    margin-left: center;
+    margin-top: center;
+
+}
+
+
+
+.form-register .bottons{
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+    margin-left: center;
+    margin-top: center;
+    background-color:cornflowerblue;
+    font-size: 22px;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color:cornflowerblue;
+    
+}
