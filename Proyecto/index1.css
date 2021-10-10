@@ -1,0 +1,27 @@
+h1{
+    font-size:60px;
+    text-align: center;
+}
+h4{
+    font-size:40px;
+    text-align: center;
+}
+pre{
+font-size:20px;
+text-justify: distribute;
+}
+th{
+    font-size:25px;
+}
+#info{
+    font-size:15px;
+    color: rgb(92, 91, 91)
+}
+#final{
+    text-align: right;
+}
+a:visited{
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
