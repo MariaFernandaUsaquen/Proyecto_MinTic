@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url("espacio-interestelar-universo-2900.jpg");
+}
+
+header{
+    width: 100%;
+    padding: 40px;
+    color: white;
+    text-align: center;
+    background: #002229;
+}
+
+nav ul{
+    list-style: none;
+    background: #004251;
+}
+
+nav ul li{
+    display: inline-block;
+    padding: 20px;
+    transition: all ease-in-out 250ms;
+}
+
+ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li:hover{
+    background: #002229;
+}
+
+table {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+  
+td, th {
+    border: 1px solid #004251;
+    text-align: left;
+    padding: 8px;
+}
+  
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+.form-register{
+    width: 1600px;
+    background: #EDEDED;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #484848;
+    box-shadow: 7px 13px 37px #000;
+}
+
+.form-register h2{
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #484848;
+}
+
+.controls{
+    width: 30%;
+    background: white;
+    padding: 5px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #004251;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+}
+
+.form-register .botons{
+    width: 5%;
+    background: white;    
+    padding: 4px;
+    color: #004251;
+    margin: 16px 0;
+    font-size: 16px;
+}

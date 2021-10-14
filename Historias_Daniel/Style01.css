@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url("espacio-interestelar-universo-2900.jpg");
+}
+
+header{
+    width: 100%;
+    padding: 40px;
+    color: white;
+    text-align: center;
+    background: #002229;
+}
+
+nav ul{
+    list-style: none;
+    background: #004251;
+}
+
+nav ul li{
+    display: inline-block;
+    padding: 20px;
+    transition: all ease-in-out 250ms;
+}
+
+ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li:hover{
+    background: #002229;
+}
