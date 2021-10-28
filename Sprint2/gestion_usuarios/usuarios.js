@@ -1,1 +1,0 @@
-array[{nombre:SpeechRecognitionResultList, }]
